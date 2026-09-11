@@ -264,3 +264,6 @@ This repository serves as the official landing page for MULAB. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MULAB today!**
+
+---
+**Last updated:** 2026-09-11 12:09:12 UTC
