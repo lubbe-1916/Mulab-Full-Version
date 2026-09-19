@@ -266,4 +266,4 @@ This repository serves as the official landing page for MULAB. The software is d
 **Get the most recent version of MULAB today!**
 
 ---
-**Last updated:** 2026-09-19 17:08:55 UTC
+**Last updated:** 2026-09-19 20:28:37 UTC
